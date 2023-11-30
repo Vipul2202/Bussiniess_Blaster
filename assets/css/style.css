@@ -43,7 +43,7 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #37517e;
+  border: 6px solid #4f7e37;
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
@@ -106,7 +106,7 @@ h6 {
 
 #header.header-scrolled,
 #header.header-inner-pages {
-  background: rgba(40, 58, 90, 0.9);
+  background: lightgreen;
 }
 
 #header .logo {
@@ -1695,7 +1695,7 @@ section {
 
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: linear-gradient(black,blue);
+  background: BLACK;
 }
 
 #footer .footer-top .footer-contact {
@@ -1796,7 +1796,7 @@ section {
 
 #footer .copyright {
   float: left;
-  background: linear-gradient(blue,black);
+  background: linear-gradient(rgb(0, 255, 179),);
 }
 
 #footer .credits {
